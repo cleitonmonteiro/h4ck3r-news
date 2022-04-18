@@ -6,8 +6,7 @@ Simple app to list the [Hacker News API](https://hn.algolia.com/api) front page 
 
 ## Screenshots
 
-<img src="Images/Home.png" height="520px">
-<img src="Images/Detail.png" height="520px">
+<img src="Images/Home.png" height="520px"> <img src="Images/Detail.png" height="520px">
 
 ## Contact
 
